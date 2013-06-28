@@ -1,4 +1,4 @@
-ParanoidAndroid for ZTE Blade
+ParanoidAndroid for ZTE Skate
 ===============================
 
 Getting Started
@@ -9,7 +9,7 @@ familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository using the Parmv6 trees, use a command like this:
 
-    repo init -u git://github.com/parmv6/android.git -b pa-cm-10.1
+    repo init -u git://github.com/jalaria001/android-1.git -b pa-cm-10.1
 
 Then to sync up:
 
@@ -17,6 +17,6 @@ Then to sync up:
 
 Then to build:
 
-    ./rom-build blade
+    ./rom-build skate
 
 
