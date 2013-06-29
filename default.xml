@@ -372,6 +372,6 @@
 
   <!-- Device -->
     <project path="device/zte/skate" name="C3C0/android_device_zte_skate" remote="github" revision="pa-cm-10.1" />
-    <project path="kernel/zte/zte-kernel-msm7x27" name="parmv6/zte-kernel-msm7x27" remote="github" revision="variant" />
-    <project path="vendor/zte" name="KonstaT/proprietary_vendor_zte" remote="github" revision="cm-10.1" />
+  <project path="kernel/zte/skate" name="C3C0/zte_skate_35" remote="github" revision="cm-10.1" />
+  <project path="vendor/zte/skate" name="C3C0/android_vendor_zte_skate" remote="github" revision="cm-10.1" />
 </manifest>
